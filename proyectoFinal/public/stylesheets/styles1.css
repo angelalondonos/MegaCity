@@ -1,0 +1,29 @@
+body {
+    padding-top: 50px;
+    background-image: url(../images/fondo.jpg);
+    background-size: 100%;
+    background-attachment: fixed;
+}
+
+.container {
+    background-color: #f2f2f2;
+    border: 1px solid #ccc;
+    padding: 20px;
+    top: 180px;
+    -webkit-box-shadow: 0 2px 2px 1px rgba(0, 0, 0, 0.2);
+    box-shadow: 0 2px 2px 1px rgba(0, 0, 0, 0.2);
+}
+
+ 
+
+input[type='text'] {
+    margin-bottom: 15px;
+}
+
+button {
+    width: 100%;
+    margin-top: 10px;
+}
+ 
+ 
+ 
